@@ -29,4 +29,4 @@ A couple of pointers:
 
 ## Resources
 
-- [Basscss](http://www.basscss.com)
+- [Basscss](http://basscss.com)
